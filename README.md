@@ -2,7 +2,7 @@
 
 Consumer is seeked to a specific offset where there is no data and the question is whether consumer makes offset correction or not.
 
-There are 3 cases to test:
+There are 2 cases to test:
 * Offset is before earliest
 * Offset is after latest
 
